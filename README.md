@@ -1,4 +1,4 @@
-# Projetos da Imersão IA Alura + Google Gemini
+# Aulas da Imersão IA Alura + Google Gemini
 
 Repositório com os projetos desenvolvidos durante a Imersão IA da Alura em parceria com o Google, focada no uso do modelo generativo Gemini para criação de soluções práticas com inteligência artificial.
 
