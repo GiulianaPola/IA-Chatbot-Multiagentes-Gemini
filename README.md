@@ -6,7 +6,7 @@ Repositório com os projetos desenvolvidos durante a Imersão IA da Alura em par
 
 ## Principais habilidades e aprendizados
 
-### Aula 04 — Chatbot com IA Generativa
+### [Aula 04 — Chatbot com IA Generativa](Aula_04_Criando_seu_primeiro_chatbot_com_IA_generativa.ipynb)
 
 * Configuração da API Google AI e uso da SDK `google-genai`
 * Criação de chatbots interativos com contexto, histórico e instruções personalizadas
@@ -16,7 +16,7 @@ Repositório com os projetos desenvolvidos durante a Imersão IA da Alura em par
 
 ---
 
-### Aula 05 — Sistema Multiagentes para Automação de Conteúdo
+### [Aula 05 — Sistema Multiagentes para Automação de Conteúdo](Aula_05_Agentes.ipynb)
 
 * Implementação de agentes especializados para automação de tarefas usando `google-adk`
 * Orquestração de agentes autônomos que buscam, planejam, escrevem e revisam conteúdo
